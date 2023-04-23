@@ -1,0 +1,472 @@
+# depslib dependency file v1.0
+1596530383 source:g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<shlwapi.h>
+	<direct.h>
+	<dirent.h>
+	<zlc/zlibcomplete.hpp>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+	"resource.h"
+	"img_dds.h"
+	"audio_biting_chip.h"
+	"audio_damn_batteries_dead.h"
+	"audio_dont_go.h"
+	"audio_ive_covered_wars_u_know.h"
+	"audio_just_dont_stand_there.h"
+	"audio_right_on.h"
+	"audio_theres_a_party.h"
+	"audio_time_to_go.h"
+	"audio_good_bye.h"
+	"audio_yaa_now_were_talkin.h"
+
+1506489978 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlibcomplete\lib\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121657209 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlib\include\zlib.h
+	"zconf.h"
+
+1121877626 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlib\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1506489978 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlibcomplete\lib\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlibcomplete\lib\zlc\zlibbase.hpp
+	<zlib.h>
+
+1506489978 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlibcomplete\lib\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\zlibcomplete\lib\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1596286897 source:g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\icon.rc
+
+1596282680 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\resource.h
+
+1596444065 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\img_dds.h
+	<iostream>
+	<fstream>
+	<string>
+
+1596279976 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_biting_chip.h
+
+1596359176 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\devil\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1596359177 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\devil\include\il\ilu.h
+	<IL/il.h>
+
+1596359177 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\devil\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1596359177 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\devil\include\il\ilut_config.h
+
+1596279982 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_damn_batteries_dead.h
+
+1596287937 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_dont_go.h
+
+1596279986 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_ive_covered_wars_u_know.h
+
+1596279990 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_just_dont_stand_there.h
+
+1596279995 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_right_on.h
+
+1596279947 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_theres_a_party.h
+
+1596279958 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_time_to_go.h
+
+1596279967 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_yaa_now_were_talkin.h
+
+1596413015 g:\steamlibrary\steamapps\common\deadrising4\_tools\mcbigpax\audio_clips\audio_good_bye.h
+
+1596286897 source:s:\private\google drive\programing\projects\dead_rising_4_tool\icon.rc
+
+1597231913 source:s:\private\google drive\programing\projects\dead_rising_4_tool\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<shlwapi.h>
+	<direct.h>
+	<dirent.h>
+	<zlc/zlibcomplete.hpp>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+	"resource.h"
+	"img_dds.h"
+	"audio_biting_chip.h"
+	"audio_damn_batteries_dead.h"
+	"audio_dont_go.h"
+	"audio_ive_covered_wars_u_know.h"
+	"audio_just_dont_stand_there.h"
+	"audio_right_on.h"
+	"audio_theres_a_party.h"
+	"audio_time_to_go.h"
+	"audio_good_bye.h"
+	"audio_yaa_now_were_talkin.h"
+
+1506489978 s:\private\google drive\programing\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121657209 s:\private\google drive\programing\projects\dead_rising_4_tool\zlib\include\zlib.h
+	"zconf.h"
+
+1121877626 s:\private\google drive\programing\projects\dead_rising_4_tool\zlib\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1506489978 s:\private\google drive\programing\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 s:\private\google drive\programing\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibbase.hpp
+	<zlib.h>
+
+1506489978 s:\private\google drive\programing\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 s:\private\google drive\programing\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1596359176 s:\private\google drive\programing\projects\dead_rising_4_tool\devil\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1596359177 s:\private\google drive\programing\projects\dead_rising_4_tool\devil\include\il\ilu.h
+	<IL/il.h>
+
+1596359177 s:\private\google drive\programing\projects\dead_rising_4_tool\devil\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1596359177 s:\private\google drive\programing\projects\dead_rising_4_tool\devil\include\il\ilut_config.h
+
+1596282680 s:\private\google drive\programing\projects\dead_rising_4_tool\resource.h
+
+1596444065 s:\private\google drive\programing\projects\dead_rising_4_tool\img_dds.h
+	<iostream>
+	<fstream>
+	<string>
+
+1596279976 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_biting_chip.h
+
+1596279982 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_damn_batteries_dead.h
+
+1596287937 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_dont_go.h
+
+1596279986 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_ive_covered_wars_u_know.h
+
+1596279990 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_just_dont_stand_there.h
+
+1596279995 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_right_on.h
+
+1596279947 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_theres_a_party.h
+
+1596279958 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_time_to_go.h
+
+1596413015 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_good_bye.h
+
+1596279967 s:\private\google drive\programing\projects\dead_rising_4_tool\audio_clips\audio_yaa_now_were_talkin.h
+
+1596286897 source:s:\private\coding\cpp\projects\dead_rising_4_tool\icon.rc
+
+1597231913 source:s:\private\coding\cpp\projects\dead_rising_4_tool\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<shlwapi.h>
+	<direct.h>
+	<dirent.h>
+	<zlc/zlibcomplete.hpp>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+	"resource.h"
+	"img_dds.h"
+	"audio_biting_chip.h"
+	"audio_damn_batteries_dead.h"
+	"audio_dont_go.h"
+	"audio_ive_covered_wars_u_know.h"
+	"audio_just_dont_stand_there.h"
+	"audio_right_on.h"
+	"audio_theres_a_party.h"
+	"audio_time_to_go.h"
+	"audio_good_bye.h"
+	"audio_yaa_now_were_talkin.h"
+
+1506489978 s:\private\coding\cpp\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121657209 s:\private\coding\cpp\projects\dead_rising_4_tool\zlib\include\zlib.h
+	"zconf.h"
+
+1121877626 s:\private\coding\cpp\projects\dead_rising_4_tool\zlib\include\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1506489978 s:\private\coding\cpp\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 s:\private\coding\cpp\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibbase.hpp
+	<zlib.h>
+
+1506489978 s:\private\coding\cpp\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1506489978 s:\private\coding\cpp\projects\dead_rising_4_tool\zlibcomplete\lib\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1596359176 s:\private\coding\cpp\projects\dead_rising_4_tool\devil\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1596359177 s:\private\coding\cpp\projects\dead_rising_4_tool\devil\include\il\ilu.h
+	<IL/il.h>
+
+1596359177 s:\private\coding\cpp\projects\dead_rising_4_tool\devil\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1596359177 s:\private\coding\cpp\projects\dead_rising_4_tool\devil\include\il\ilut_config.h
+
+1596282680 s:\private\coding\cpp\projects\dead_rising_4_tool\resource.h
+
+1596444065 s:\private\coding\cpp\projects\dead_rising_4_tool\img_dds.h
+	<iostream>
+	<fstream>
+	<string>
+
+1596279976 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_biting_chip.h
+
+1596279982 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_damn_batteries_dead.h
+
+1596287937 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_dont_go.h
+
+1596279986 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_ive_covered_wars_u_know.h
+
+1596279990 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_just_dont_stand_there.h
+
+1596279995 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_right_on.h
+
+1596279947 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_theres_a_party.h
+
+1596279958 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_time_to_go.h
+
+1596413015 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_good_bye.h
+
+1596279967 s:\private\coding\cpp\projects\dead_rising_4_tool\audio_clips\audio_yaa_now_were_talkin.h
+
+1682261210 source:e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<windows.h>
+	<shlwapi.h>
+	<stdint.h>
+	<direct.h>
+	<dirent.h>
+	<zlc/zlibcomplete.hpp>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+	"resource.h"
+	"img_dds.h"
+	"audio_biting_chip.h"
+	"audio_damn_batteries_dead.h"
+	"audio_dont_go.h"
+	"audio_ive_covered_wars_u_know.h"
+	"audio_just_dont_stand_there.h"
+	"audio_right_on.h"
+	"audio_theres_a_party.h"
+	"audio_time_to_go.h"
+	"audio_good_bye.h"
+	"audio_yaa_now_were_talkin.h"
+
+1506486378 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlc\zlibcomplete.hpp
+	<string>
+	<zlib.h>
+	<zlc/gzipcomplete.hpp>
+	<zlc/zlibmisc.hpp>
+	<zlc/zlibraw.hpp>
+
+1121653609 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlib\zlib.h
+	"zconf.h"
+
+1121874026 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1506486378 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlc\gzipcomplete.hpp
+	<zlc/zlibbase.hpp>
+
+1506486378 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlc\zlibbase.hpp
+	<zlib.h>
+
+1506486378 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlc\zlibmisc.hpp
+	<zlc/zlibbase.hpp>
+
+1506486378 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\zlc\zlibraw.hpp
+	<zlc/zlibbase.hpp>
+
+1596355576 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\il\il.h
+	<stdio.h>
+	<limits.h>
+	<wchar.h>
+
+1596355577 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\il\ilu.h
+	<IL/il.h>
+
+1596355577 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\il\ilut.h
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut_config.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<crtdbg.h>
+	<windows.h>
+	<d3d8.h>
+	<d3d9.h>
+	<rpcsal.h>
+	<sal.h>
+	<d3d10.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<allegro.h>
+
+1596355577 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\il\ilut_config.h
+
+1596279080 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\resource.h
+
+1682262451 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\img_dds.h
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<cstdint>
+
+1596276376 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_biting_chip.h
+
+1596276382 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_damn_batteries_dead.h
+
+1596284337 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_dont_go.h
+
+1596276386 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_ive_covered_wars_u_know.h
+
+1596276390 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_just_dont_stand_there.h
+
+1596276395 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_right_on.h
+
+1596276347 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_theres_a_party.h
+
+1596276358 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_time_to_go.h
+
+1596409415 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_good_bye.h
+
+1596276367 e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\include\audio\audio_yaa_now_were_talkin.h
+
+1596283297 source:e:\backup\mycloud4100\coding\cpp\projects\dead_rising_4_tool\src\icon.rc
+

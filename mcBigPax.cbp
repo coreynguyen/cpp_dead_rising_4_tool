@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mcBigPax" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/bigtool" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters='&quot;G:\SteamLibrary\steamapps\common\DeadRising4\_Tools\mcBigPax\bin\Release\startup_dec&quot;' />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../mcBigPax" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-static-libstdc++" />
+					<Add option="-static-libgcc" />
+				</Linker>
+			</Target>
+			<Target title="Debug">
+				<Option output="bin/Debug/mcBigPax" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../mcBigPax" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="include" />
+			<Add directory="include/audio" />
+			<Add directory="include/glew" />
+			<Add directory="include/zlib" />
+		</Compiler>
+		<Linker>
+			<Add option="-static-libstdc++" />
+			<Add option="-static-libgcc" />
+			<Add option="-lzlibcomplete" />
+			<Add option="-lz" />
+			<Add option="-lshlwapi" />
+			<Add option="-lwinmm" />
+			<Add option="-lcomdlg32" />
+			<Add option="-lole32" />
+			<Add directory="lib" />
+			<Add directory="lib/devIL" />
+			<Add directory="lib/zlib" />
+			<Add directory="lib/zlibcomplete" />
+		</Linker>
+		<Unit filename="include/img_dds.h" />
+		<Unit filename="include/resource.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
